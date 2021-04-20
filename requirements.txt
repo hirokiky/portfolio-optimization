@@ -36,7 +36,7 @@ pluggy==0.6.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 PuLP==1.6.8
-py==1.5.2
+py==1.10.0
 Pygments==2.2.0
 pyparsing==2.2.0
 pytest==3.3.1
